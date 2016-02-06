@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myManager</string>
+    
+    <string name="title_name">my Manager</string>
+    <string name="enterpin">Enter Pin</string>
+    <string name="content_description">pin page right arrow</string>
+    
+    <string name="iv_password_manager">Manage Passwords</string>
+    <string name="iv_expense_manager">Manage Expenses</string>
+    <string name="iv_bill_manager">Manage Bills</string>
+    <string name="iv_family_locator">Family Locator</string>
+    <string name="iv_password_generator">Password Generator</string>
+    
+    
+    <string name="iv_addaccount">"Add Account"</string>
+    <string name="iv_saveaccount">"Save Account"</string>
+    <string name="iv_deleteaccount">"Delete Account"</string>
+    <string name="iv_editaccount">"Edit Account"</string>
+    
+    <string name="placehoder_accname">Account Name</string>
+    <string name="placehoder_username">Username</string>
+    <string name="placehoder_pwd">Password</string>
+    <string name="placehoder_notes">Notes</string>
+    
+    <string name="lbl_accname">Account Name:</string>
+    <string name="lbl_username">Username:</string>
+    <string name="lbl_pwd">Password:</string>
+    <string name="lbl_notes">Notes:</string>
+     
+</resources>
